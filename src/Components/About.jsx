@@ -8,9 +8,11 @@ const imageAltText = "purple and blue abstract background";
 
 
 const description =
-  "I'm a CS student studying at National University of Computer and Emerging Sciences.Also a frontend developer at Zenkoders a software Company";
+  "I'm a CS student studying at National University of Computer and Emerging Sciences.Also doing a full time job as data annotator at CNTXT- A UAE Based company";
 
 const skillsList = [
+  "Machine Learning",
+  "Data Science",
   "Font End Developer",
   "Nest JS",
   "Next JS",
@@ -21,7 +23,7 @@ const skillsList = [
 ];
 
 const detailOrQuote =
-  "I am a dedicated computer science student with a passion for development. Eager to explore and contribute to the ever-evolving field of technology, I thrive on turning ideas into innovative and functional solutions. My journey involves continuous learning and a commitment to creating impactful software that addresses real-world challenges.";
+  "I am a dedicated computer science student with a passion for Machine Learning. Eager to explore and contribute to the ever-evolving field of technology, I thrive on turning ideas into innovative and functional solutions. My journey involves continuous learning and a commitment to creating impactful software that addresses real-world challenges.";
 
 const About = () => {
   return (

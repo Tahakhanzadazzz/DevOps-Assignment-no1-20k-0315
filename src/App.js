@@ -27,12 +27,12 @@ import Certifications from "./Components/Certifications";
  * If you don't have one of the social sites listed, leave it as an empty string.
  */
 const siteProps = {
-  name: "Abdul Basit",
-  title: "Front End Developer at Zenkoders",
-  email: "k200333@nu.edu.pk",
-  gitHub: "Abdulbasit-Samad",
+  name: "Taha Khan",
+  title: "Data Annotator at CNTXT",
+  email: "k200315@nu.edu.pk",
+  gitHub: "TAHA KHAN",
   instagram: "basitsamad_/",
-  linkedIn: "abdul-basit-34645a22b/",
+  linkedIn: "Tahakhan-34645a22b/",
   medium: "",
   twitter: "",
   youTube: "",
